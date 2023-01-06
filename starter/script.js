@@ -12,6 +12,29 @@
 
 //NOTE TO SELF - Go back to watch the beginning of Friday 06th Jan 2023 video to help with the Home Work Challenge
 
+//This is what was slacked out by instructor:
+
+// let practicePassword = "";
+//   for (let i = 0; i < 100; i++) {
+    
+//     practicePassword += "j"
+    
+//   }
+
+
+
+//   return practicePassword;
+
+
+// and
+
+// let randomIndex = Math.floor(Math.random()*arrayName.length)
+
+// then
+
+// bigArray = bigArray.concat(exampleArray)
+
+
 
 // Array of special characters to be included in password
 var specialCharacters = [
